@@ -1,13 +1,13 @@
 # Kirby - Jumplist
 
 #### Version 1.0.0 - 2016-04-16
-- initial public offering...
+- Initial Public Offering...
 
 ****
 
 ### What is it?
 
-Kirby Jumplist add a menu in the upper-right corner of Kirby's panel, allowing you to quickly jump from page to (sub-)page - thus allowing you to change, edit, copy / paste very quicly between pages.
+Kirby Jumplist adds a menu in the upper-right corner of Kirby's panel, allowing you to quickly jump from page to (sub-)page - thus allowing you to change, edit, copy / paste very quicly between pages.
 
 More info about Kirby can be found at http://getkirby.com
 
