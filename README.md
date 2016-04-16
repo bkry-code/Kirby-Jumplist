@@ -7,7 +7,7 @@
 
 ### What is it?
 
-Kirby Jumplist adds a menu in the upper-right corner of Kirby's panel, allowing you to quickly jump from page to (sub-)page - thus allowing you to change, edit, copy / paste very quicly between pages.
+Kirby Jumplist adds a menu in the upper-right corner of Kirby's panel, allowing you to quickly jump from page to (sub-)page - thus allowing you to change, edit, copy / paste very quickly between individual pages.
 
 More info about Kirby can be found at http://getkirby.com
 
