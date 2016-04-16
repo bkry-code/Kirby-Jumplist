@@ -1,7 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: My Title
-pages: true
+title: My Jumplist Example
 
 fields:
 
