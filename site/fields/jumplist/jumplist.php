@@ -76,7 +76,6 @@ class JumpListField extends BaseField {
 
 /* Check if page has sub-pages #start */
 
-
         if($has_children && $kirbyJumplistSubmenu == 1) {
 
           $jumplist .= ' <i class="fa fa-chevron-down"></i></a>';
