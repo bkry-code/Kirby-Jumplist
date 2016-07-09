@@ -33,6 +33,7 @@ class JumpListField extends BaseField {
 
   $kirby = kirby();
   $site  = $kirby->site();
+
   $i = 0; /* Absolute pagenumbers */
   $z = 0; /* Column pagenumbers */
   $jumplist = null;

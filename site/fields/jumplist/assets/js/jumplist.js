@@ -13,7 +13,7 @@ $.fn.jumplistfield = function() {
   }
 
   if(window.console) {
-    console.log("[jumplist] initialized.")
+    console.log("[jumplist] initialized")
   }
 
 };
